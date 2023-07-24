@@ -2,4 +2,4 @@
 
 # Redirect Lanlords Wiki
 
-Basic hacky HTML redirect to the Confluence wiki.
+Basic hacky HTML redirect to the Notion wiki.
